@@ -1,0 +1,48 @@
+[
+    {
+        "recipe": "pimento cheese recipe",
+        "growth": 200,
+        "ingredients": [
+            129,
+            66,
+            163,
+            72,
+            113,
+            60
+        ]
+    },
+    {
+        "recipe": "pornstar martini recipe",
+        "growth": 60,
+        "ingredients": [
+            43,
+            12,
+            110,
+            143,
+            145,
+            61
+        ]
+    },
+    {
+        "recipe": "hummingbird food recipe",
+        "growth": 50,
+        "ingredients": [
+            1,
+            34,
+            35,
+            4,
+            69,
+            131,
+            72,
+            73,
+            11,
+            78,
+            113,
+            17,
+            147,
+            91,
+            60,
+            93
+        ]
+    }
+]
